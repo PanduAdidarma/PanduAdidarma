@@ -1,8 +1,8 @@
-
 # 💫 About Me:
 Hi, I'm **Pandu Agung** 👋  
-A passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.  
-I enjoy learning new technologies, solving problems, and turning ideas into real digital products.
+A passionate **Software Engineer** who enjoys building scalable, efficient, and user-friendly digital products.  
+I love solving problems through code, learning new technologies, and creating systems that bring real impact.
+
 Hobbies<br>⚽ Playing football<br>🏔️ Hiking<br>📚 Reading books<br>🎵 Listening to music<br>💪 Exercising
 
 
