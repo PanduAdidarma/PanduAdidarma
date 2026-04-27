@@ -14,7 +14,6 @@ Hobbies<br>⚽ Playing football<br>🏔️ Hiking<br>📚 Reading books<br>🎵 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PanduAdidarma&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=PanduAdidarma&theme=radical&hide_border=false)
 
@@ -22,6 +21,6 @@ Hobbies<br>⚽ Playing football<br>🏔️ Hiking<br>📚 Reading books<br>🎵 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PanduAdidarma&icon=0&color=ff69b4
+[![](https://komarev.com/ghpvc/?username=PanduAdidarma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
