@@ -15,8 +15,6 @@ Hobbies<br>⚽ Playing football<br>🏔️ Hiking<br>📚 Reading books<br>🎵 
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=PanduAdidarma&theme=radical&hide_border=false)
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PanduAdidarma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
